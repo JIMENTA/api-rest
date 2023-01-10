@@ -1,0 +1,15 @@
+[{
+        "id": 1,
+        "title": "Alien",
+        "director": "James Cameron",
+        "year": 1998,
+        "rating": 8.8
+    },
+    {
+        "id": 2,
+        "title": "Indiana Jones",
+        "director": "Chistopher Nolan",
+        "year": 1996,
+        "rating": 8.3
+    }
+]
